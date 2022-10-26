@@ -22,3 +22,15 @@
 ```powershell
 npm i
 ```
+
+
+
+### 预览
+
+<div style="text-align:left;">
+<img src="https://raw.githubusercontent.com/ZTFree/md_pic/master/qn8news/demo1.png" style="zoom:50%;" />
+</div>
+
+<div style="text-align:left;">
+<img src="https://raw.githubusercontent.com/ZTFree/md_pic/master/qn8news/demo2.png" style="zoom:50%;" />
+</div>
