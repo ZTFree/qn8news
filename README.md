@@ -14,4 +14,11 @@
 
 - uniapp
 
-  
+
+
+
+### 依赖安装
+
+```powershell
+npm i
+```
