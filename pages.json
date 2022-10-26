@@ -1,0 +1,43 @@
+{
+	"pages": [{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "青年帮新闻"
+			}
+		},
+		{
+			"path": "pages/user/user",
+			"style": {
+				"navigationBarTitleText": "个人中心"
+			}
+		},
+		{
+			"path": "pages/detail/detail",
+			"style": {
+				"navigationBarTitleText": "新闻详情"
+			}
+		}
+
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarBackgroundColor": "#31c27c"
+	},
+	"uniIdRouter": {},
+	"tabBar": {
+		"selectedColor": "#31c27c",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"text": "首页",
+				"iconPath": "static/images/home.png",
+				"selectedIconPath": "static/images/home-h.png"
+			},
+			{
+				"pagePath": "pages/user/user",
+				"text": "个人",
+				"iconPath": "static/images/user.png",
+				"selectedIconPath": "static/images/user-h.png"
+			}
+		]
+	}
+}
